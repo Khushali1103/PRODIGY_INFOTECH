@@ -1,5 +1,5 @@
 # PRODIGY_INFOTECH
-Welcome to the Prodigy InfoTech Internship repository! This repository documents are for Task 1 of my internship journey, focusing on data cleaning, analysis, and uncovering insightful patterns.
+Welcome to the Prodigy InfoTech Internship repository! This repository documents are for Tasks of my internship journey.
 
 # Task 1 Overview
 Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the disctribution of ages or genders in a population.
